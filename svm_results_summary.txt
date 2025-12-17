@@ -1,0 +1,30 @@
+Quantum Kernel Classification - SVM Results Summary
+============================================================
+
+Quantum Kernel SVMs:
+  Basic Quantum Feature Map: 0.7000
+    Best C: 1
+  ZZ Quantum Feature Map: 0.6667
+    Best C: 0.1
+
+Classical Kernel SVMs:
+  RBF Kernel: 1.0000
+  Polynomial Kernel: 1.0000
+  Linear Kernel: 0.9667
+
+Best Method: RBF Kernel (Classical) (1.0000)
+
+============================================================
+Part 5: Angle Embedding with QSVM
+============================================================
+
+QSVM with Angle Encoding: 0.6667
+  Best C: 0.1
+
+Comparison to Part 4:
+  Part 4 - RBF Kernel (Classical): 1.0000
+  Part 4 - Polynomial Kernel (Classical): 1.0000
+  Part 4 - Linear Kernel (Classical): 0.9667
+  Part 4 - Basic Quantum Feature Map: 0.7000
+  Part 4 - ZZ Quantum Feature Map: 0.6667
+  Part 5 - QSVM with Angle Encoding: 0.6667
