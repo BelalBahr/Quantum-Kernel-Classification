@@ -1,8 +1,5 @@
 # Quantum Kernel Classification Project
 
-PHM 678 - Quantum Machine Learning and Artificial Intelligence  
-Fall 2025
-
 ## Overview
 
 This project implements, analyzes, and extends quantum kernel methods for machine learning. It builds quantum feature maps, simulates quantum kernels, and benchmarks quantum-enhanced classifiers against classical baselines.
@@ -196,11 +193,10 @@ This script checks:
 
 ## Project Deliverables
 
-✅ **Part 1**: Theoretical background (documentation)  
-✅ **Part 2**: Quantum feature maps (Basic + ZZ)  
-✅ **Part 3**: Quantum kernel computation with visualizations  
-✅ **Part 4**: SVM training and evaluation with classical comparison  
-✅ **Part 5**: Angle embedding QSVM implementation  
+-Quantum feature maps (Basic + ZZ)  
+-Quantum kernel computation with visualizations  
+-SVM training and evaluation with classical comparison  
+-Angle embedding QSVM implementation  
 
 ## Results Interpretation
 
@@ -215,11 +211,3 @@ Key insights:
 - Angle encoding provides simpler, faster alternative
 - Performance depends on dataset and feature map choice
 
-## Author
-
-PHM 678 - Quantum Machine Learning and Artificial Intelligence  
-Fall 2025
-
-## License
-
-Educational project for academic purposes.
