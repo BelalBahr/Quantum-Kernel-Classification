@@ -189,7 +189,7 @@ This script checks:
   - Hyperparameter tuning: ~30 seconds
   - Training: < 10 seconds
 
-## Project Deliverables
+## Deliverables
 
 -Quantum feature maps (Basic + ZZ)  
 -Quantum kernel computation with visualizations  
