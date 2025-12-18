@@ -12,8 +12,6 @@ The project aims to deepen understanding of how quantum properties can influence
 Quantum-Kernal-Classification/
 ├── project.py                              # Main implementation (all 5 parts)
 ├── check_progress.py                       # Progress monitoring script
-├── PHM678_Quantum Kernel Classification Project.md  # Project requirements
-├── PHM678_Quantum Kernel Classification Project.pdf # Project PDF
 ├── README.md                               # This file
 ├── quantum_kernel_basic_heatmap.png        # Basic feature map kernel visualization
 ├── quantum_kernel_zz_heatmap.png           # ZZ feature map kernel visualization
